@@ -4,7 +4,7 @@
 
 ## DEMO
 
-![gif](images\demo.gif)
+![](https://github.com/looechao/Alien-Invasion/blob/main/images/demo.gif)
 
 ## Usage
 
