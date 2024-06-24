@@ -4,7 +4,7 @@
 
 ## DEMO
 
-![demo](D:\Documents\Coding\python-alien-invasion\images\demo.gif)
+![demo](images\demo.gif)
 
 ## Usage
 
