@@ -4,7 +4,7 @@
 
 ## DEMO
 
-![demo](images\demo.gif)
+![gif](images\demo.gif)
 
 ## Usage
 
